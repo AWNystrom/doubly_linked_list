@@ -14,7 +14,7 @@ To run unit tests, run the following command:
 python doubly_linked_list/test_doubly_linked_list.py
 
 USAGE
-Here's saome example usage:
+Here's some example usage:
 
 >>> from doubly_linked_list import DoublyLinkedList
 >>> dll = DoublyLinkedList(range(10))
