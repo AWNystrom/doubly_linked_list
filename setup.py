@@ -2,6 +2,7 @@ from distutils.core import setup
 
 setup(
     name = "doubly_linked_list",
+    packages = ["doubly_linked_list"],
     version = "1.0.0",
     description = "Doubly linked list datastructure in Python",
     author = "Andrew Nystrom",
