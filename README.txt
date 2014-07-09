@@ -30,6 +30,6 @@ Here's some example usage:
 >>> shuffle(dll)
 >>> print dll
 [1, 4, 0, 2, 6, 3, 5, 7, 8]
->>> dll.moveToHead(dll.getNodeByIndex[4])
+>>> dll.moveToHead(dll.getNodeByIndex(4))
 >>> print dll
 [6, 1, 4, 0, 2, 3, 5, 7, 8]
