@@ -1,7 +1,6 @@
 doubly_linked_list
 ==================
-
-This code impliments a doubly linked list implimented in Python. I needed it 
+This code is a Python implementation of a doubly linked list. I needed it 
 for a very narrow scope, so the functionality might not have what you're 
 looking for. If you'd like a feature added, please email AWNystrom@gmail.com
 
